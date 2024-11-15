@@ -1,0 +1,21 @@
+.repertory{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+}
+.repertory .boxs{
+    display:flex;
+    justify-content:space-between;
+    gap:100px;
+}
+.repertory .boxs h1{
+    font-size:32px;
+}
+.repertory .title{
+    font-size:90px;
+}
+.repertory h2{
+    font-size:50px;
+}

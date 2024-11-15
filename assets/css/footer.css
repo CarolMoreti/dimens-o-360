@@ -1,0 +1,16 @@
+footer{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 40px 40px 10px 40px;
+    
+}
+footer .left-footer{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    gap:40px;
+}
+.copy{
+    width:50px;
+}

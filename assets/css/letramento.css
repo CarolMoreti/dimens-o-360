@@ -1,0 +1,26 @@
+.letramento h1{
+    font-size:90px;
+}
+.letramento p{
+    font-size:30px;
+}
+.letramento{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+}
+.letramento .boxe{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap:140px;
+    margin:40px 0;
+}
+.letramento .boxi{
+    background:#7b3313;
+    border-radius:20px;
+    padding:24px;
+    width:300px;
+}
